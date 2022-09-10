@@ -1,4 +1,8 @@
-
+/**
+ * TAREA 2 EJERCICIO 2
+ * @author Alvaro Benitez Carmona
+ *
+ */
 public class ClaseInteger {
 
 	public static void main(String[] args) {
